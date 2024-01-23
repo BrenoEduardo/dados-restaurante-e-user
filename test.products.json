@@ -1,0 +1,340 @@
+[{
+  "_id": {
+    "$oid": "65aea2df6f84ce3991dc0040"
+  },
+  "userId": {
+    "$oid": "65ae9ce76f84ce3991dbffe8"
+  },
+  "productType": "Prato",
+  "productName": "Sanduiche",
+  "productPrice": 20,
+  "productDescription": "Mc lanche feliz",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fsanduiche.jpg?alt=media&token=53640a4d-6b92-4f7c-a890-357a487ec399",
+  "createdAt": {
+    "$date": "2024-01-22T17:16:15.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aea3766f84ce3991dc0049"
+  },
+  "userId": {
+    "$oid": "65ae9ce76f84ce3991dbffe8"
+  },
+  "productType": "Prato",
+  "productName": "Big Mac",
+  "productPrice": 15,
+  "productDescription": "Big mac, o maior hamburguer do mc donals",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fsanduiche2.jpg?alt=media&token=a26ed64b-1629-4358-8a38-c00f301bb94d",
+  "createdAt": {
+    "$date": "2024-01-22T17:18:46.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aea3946f84ce3991dc004d"
+  },
+  "userId": {
+    "$oid": "65ae9ce76f84ce3991dbffe8"
+  },
+  "productType": "Prato",
+  "productName": "Mc espaguete",
+  "productPrice": 40,
+  "productDescription": "O macarrão do mc donals",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fespaguete.jpg?alt=media&token=4e4856e1-85a6-4494-8476-fe03b71d4608",
+  "createdAt": {
+    "$date": "2024-01-22T17:19:16.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aea3b76f84ce3991dc0051"
+  },
+  "userId": {
+    "$oid": "65ae9ce76f84ce3991dbffe8"
+  },
+  "productType": "Bebida",
+  "productName": "Original",
+  "productPrice": 6,
+  "productDescription": "Cerveja Original",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Forig.jpg?alt=media&token=f759e0da-a77b-438a-a8a3-56cd8ba15847",
+  "createdAt": {
+    "$date": "2024-01-22T17:19:51.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec856796be38e954f19aa"
+  },
+  "userId": {
+    "$oid": "65ae9d3b6f84ce3991dbfff0"
+  },
+  "productType": "Prato",
+  "productName": "Marmita",
+  "productPrice": 20,
+  "productDescription": "Marmitona do bk",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fmarmita.jpg?alt=media&token=c3f4d27a-2c4e-4125-8da0-82d1cb22f87f",
+  "createdAt": {
+    "$date": "2024-01-22T19:56:06.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec86e796be38e954f19ae"
+  },
+  "userId": {
+    "$oid": "65ae9d3b6f84ce3991dbfff0"
+  },
+  "productType": "Prato",
+  "productName": "Sanduiche",
+  "productPrice": 15,
+  "productDescription": "Whopper",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fsanduiche2.jpg?alt=media&token=15dfbee7-6e3f-4088-b902-67d9feef6540",
+  "createdAt": {
+    "$date": "2024-01-22T19:56:30.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec885796be38e954f19b2"
+  },
+  "userId": {
+    "$oid": "65ae9d3b6f84ce3991dbfff0"
+  },
+  "productType": "Bebida",
+  "productName": "Kriskoff",
+  "productPrice": 10,
+  "productDescription": "Vodka",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fkirskof.jpg?alt=media&token=1c8070c2-fa50-4d0e-bb6d-ce8791fd00c8",
+  "createdAt": {
+    "$date": "2024-01-22T19:56:53.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec897796be38e954f19b6"
+  },
+  "userId": {
+    "$oid": "65ae9d3b6f84ce3991dbfff0"
+  },
+  "productType": "Bebida",
+  "productName": "Ice",
+  "productPrice": 8,
+  "productDescription": "Ice de morango",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fice.jpg?alt=media&token=064a7088-c9b7-4645-8b53-32ed17085bc5",
+  "createdAt": {
+    "$date": "2024-01-22T19:57:11.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec957796be38e954f19d0"
+  },
+  "userId": {
+    "$oid": "65ae9d656f84ce3991dbfff4"
+  },
+  "productType": "Prato",
+  "productName": "Coxinha",
+  "productPrice": 10,
+  "productDescription": "Coxinha de frango",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fcoxinha.jpg?alt=media&token=46cba1fc-3d59-4da4-a157-8710bfd0a450",
+  "createdAt": {
+    "$date": "2024-01-22T20:00:23.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec96f796be38e954f19d4"
+  },
+  "userId": {
+    "$oid": "65ae9d656f84ce3991dbfff4"
+  },
+  "productType": "Prato",
+  "productName": "Prato executivo",
+  "productPrice": 20,
+  "productDescription": "Prato executivo",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fprato_executivo.jpg?alt=media&token=5a01f45a-7264-4e4f-b5e0-ec7afa487f4e",
+  "createdAt": {
+    "$date": "2024-01-22T20:00:47.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec985796be38e954f19d8"
+  },
+  "userId": {
+    "$oid": "65ae9d656f84ce3991dbfff4"
+  },
+  "productType": "Prato",
+  "productName": "Sanduiche",
+  "productPrice": 30,
+  "productDescription": "Sandubão",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fsanduiche.jpg?alt=media&token=33944b4c-b16b-4abd-aeae-e1d77bcf4c83",
+  "createdAt": {
+    "$date": "2024-01-22T20:01:09.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aeca0c796be38e954f19e5"
+  },
+  "userId": {
+    "$oid": "65ae9da16f84ce3991dbfff8"
+  },
+  "productType": "Bebida",
+  "productName": "Original",
+  "productPrice": 6,
+  "productDescription": "Cerveja original",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Forig.jpg?alt=media&token=254c008a-70be-4a63-a27b-c80a1be694a3",
+  "createdAt": {
+    "$date": "2024-01-22T20:03:24.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aeca25796be38e954f19e9"
+  },
+  "userId": {
+    "$oid": "65ae9da16f84ce3991dbfff8"
+  },
+  "productType": "Bebida",
+  "productName": "Skoll Beats",
+  "productPrice": 8,
+  "productDescription": "Skoll beats",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fbeats.jpg?alt=media&token=c5a0d867-4f6e-47d2-b398-e661782a8762",
+  "createdAt": {
+    "$date": "2024-01-22T20:03:49.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aeca3d796be38e954f19ed"
+  },
+  "userId": {
+    "$oid": "65ae9da16f84ce3991dbfff8"
+  },
+  "productType": "Bebida",
+  "productName": "Budwiser",
+  "productPrice": 8,
+  "productDescription": "Bud",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fbud.jpg?alt=media&token=45ae2057-06bc-4425-9193-87652b765557",
+  "createdAt": {
+    "$date": "2024-01-22T20:04:13.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefcafe14a624670125453"
+  },
+  "userId": {
+    "$oid": "65ae9dd56f84ce3991dbfffc"
+  },
+  "productType": "Bebida",
+  "productName": "Taxa de serviço da bebida",
+  "productPrice": 0.1,
+  "productDescription": "Taxa de bebida",
+  "productImage": null,
+  "createdAt": {
+    "$date": "2024-01-22T23:39:27.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aefd98e14a62467012545c"
+  },
+  "userId": {
+    "$oid": "65ae9dd56f84ce3991dbfffc"
+  },
+  "productType": "Prato",
+  "productName": "Sandubao",
+  "productPrice": 20,
+  "productDescription": "Podrão",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fsanduiche2.jpg?alt=media&token=c240dc52-a300-4835-a34b-c9ce7f9a8f32",
+  "createdAt": {
+    "$date": "2024-01-22T23:43:20.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af115d236bd8a24c91718e"
+  },
+  "userId": {
+    "$oid": "65ae9ce76f84ce3991dbffe8"
+  },
+  "productType": "Bebida",
+  "productName": "Scott",
+  "productPrice": 90,
+  "productDescription": "Whisky Scott",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fscote.jpg?alt=media&token=beac63c7-caca-4fbb-8984-b6ea36e1d021",
+  "createdAt": {
+    "$date": "2024-01-23T01:07:41.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af1194236bd8a24c917198"
+  },
+  "userId": {
+    "$oid": "65ae9ce76f84ce3991dbffe8"
+  },
+  "productType": "Prato",
+  "productName": "Prato chique",
+  "productPrice": 30,
+  "productDescription": "Pratão de comida",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fprato_chique.jpg?alt=media&token=4ea1f56b-ce34-4ccd-beec-6f1d9f8d3461",
+  "createdAt": {
+    "$date": "2024-01-23T01:08:36.824Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af1262236bd8a24c9171aa"
+  },
+  "userId": {
+    "$oid": "65ae9dfb6f84ce3991dc0000"
+  },
+  "productType": "Prato",
+  "productName": "Risoto",
+  "productPrice": 40,
+  "productDescription": "Risoto de frango",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Frisoto.jpg?alt=media&token=6ca815fc-47f1-4d20-8e51-3dae36f71be5",
+  "createdAt": {
+    "$date": "2024-01-23T01:12:02.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af1273236bd8a24c9171ae"
+  },
+  "userId": {
+    "$oid": "65ae9dfb6f84ce3991dc0000"
+  },
+  "productType": "Prato",
+  "productName": "Coxinha",
+  "productPrice": 70,
+  "productDescription": "Coxinhas premium",
+  "productImage": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fcoxinha.jpg?alt=media&token=429f596b-6106-40bd-b28d-184c55804064",
+  "createdAt": {
+    "$date": "2024-01-23T01:12:19.672Z"
+  },
+  "__v": 0
+}]

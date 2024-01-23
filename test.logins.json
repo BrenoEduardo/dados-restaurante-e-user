@@ -1,0 +1,255 @@
+[{
+  "_id": {
+    "$oid": "65ae9ce76f84ce3991dbffe8"
+  },
+  "name": "",
+  "email": "mc@mc.com",
+  "password": "$2a$10$7svVDZTCuWmNUm4ui4/3cOubpyprgueULAh3Kxj8AUMLdGNcy7Kfy",
+  "typeAccount": "colaborator",
+  "nameCompany": "Mc donalds",
+  "phoneCompany": "(11) 98873-9212",
+  "adressCompany": "Rua 12 de março",
+  "logoCompany": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fmc.png?alt=media&token=f25e1a53-69ff-4393-a7fa-305bf0bf254c",
+  "createdAt": {
+    "$date": "2024-01-22T16:50:47.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9d106f84ce3991dbffec"
+  },
+  "name": "",
+  "email": "restaurante@restaurante.com",
+  "password": "$2a$10$4uzxaprIcfQQsKeuGA//K.jE1HKg5tYeLj7Z7iN7kBhliDaFB34FG",
+  "typeAccount": "colaborator",
+  "nameCompany": "Restaurante da titia",
+  "phoneCompany": "(23) 87678-3912",
+  "adressCompany": "Rua Jose fonseca e silva",
+  "logoCompany": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Falmo%C3%A7o.png?alt=media&token=458f32b8-8b57-4ee3-9cf7-7462b054f22c",
+  "createdAt": {
+    "$date": "2024-01-22T16:51:28.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9d3b6f84ce3991dbfff0"
+  },
+  "name": "",
+  "email": "bk@bk.com",
+  "password": "$2a$10$XDwjOCXCAWda38IZQXFrP.FKyhX.jgqIj3WkN20Ne6K9t5jP8dj9S",
+  "typeAccount": "colaborator",
+  "nameCompany": "Burguer king",
+  "phoneCompany": "(11) 99899-3919",
+  "adressCompany": "Avenida das alamedas silva",
+  "logoCompany": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fbk.png?alt=media&token=a9a347ef-ad60-4b76-a3e6-e84b9dc87d1e",
+  "createdAt": {
+    "$date": "2024-01-22T16:52:11.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9d656f84ce3991dbfff4"
+  },
+  "name": "",
+  "email": "batata@batata.com",
+  "password": "$2a$10$v24BqWg1YynOFaH0ZPJ/Oepyoxecrb9YN/mnaWaWq1bnpzfkTDfsy",
+  "typeAccount": "colaborator",
+  "nameCompany": "Casa das batatas",
+  "phoneCompany": "(32) 78999-3991",
+  "adressCompany": "Rua dos joaquins ",
+  "logoCompany": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fbatata.jpg?alt=media&token=1e764834-55be-4379-bfa1-97bedfc8904f",
+  "createdAt": {
+    "$date": "2024-01-22T16:52:53.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9da16f84ce3991dbfff8"
+  },
+  "name": "",
+  "email": "burguer@burguer.com",
+  "password": "$2a$10$FUjvi7t1k2JGkqJ/FO0qHe2NeRzL0OhhvJ00VEsyySGgP9d7wbVla",
+  "typeAccount": "colaborator",
+  "nameCompany": "Burguer dos seculos",
+  "phoneCompany": "(99) 09093-9812",
+  "adressCompany": "Rua corsário carvalho da silva junior",
+  "logoCompany": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Fburguer.png?alt=media&token=1acaca66-3783-4553-9289-94a85e932bb1",
+  "createdAt": {
+    "$date": "2024-01-22T16:53:53.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9dd56f84ce3991dbfffc"
+  },
+  "name": "",
+  "email": "restaurante1@restaurante.com",
+  "password": "$2a$10$D6CGMuTjc8AIWvjkZZfJ0eGKHsEablGHu7pV26k8KpjBIyWziwjwe",
+  "typeAccount": "colaborator",
+  "nameCompany": "Restaurante da comida boa",
+  "phoneCompany": "(11) 88983-9210",
+  "adressCompany": "Rua rondom pacheco",
+  "logoCompany": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Frestaurante1.png?alt=media&token=0dc30c08-8c2d-4fde-a315-5c93ec46781d",
+  "createdAt": {
+    "$date": "2024-01-22T16:54:45.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9dfb6f84ce3991dc0000"
+  },
+  "name": "",
+  "email": "restaurante2@restaurante.com",
+  "password": "$2a$10$H5J6Nkz1892U9HkYB328iu6KdcM5Lh27CRILipSpQuUffR6yLvbH6",
+  "typeAccount": "colaborator",
+  "nameCompany": "Restaurante do capricho",
+  "phoneCompany": "(90) 38120-9321",
+  "adressCompany": "Rua da silva santos drummont",
+  "logoCompany": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Frestaurante2.png?alt=media&token=6a28a77b-6b13-4d74-bc1a-8928387e6bea",
+  "createdAt": {
+    "$date": "2024-01-22T16:55:23.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9e1f6f84ce3991dc0004"
+  },
+  "name": "",
+  "email": "restaurante3@restaurante.com",
+  "password": "$2a$10$ZcEkF5ULNZNVfpVn.9vSc.PQjkovLWD.1BVHngRYgufoSThOeuQru",
+  "typeAccount": "colaborator",
+  "nameCompany": "Restaurante indiano",
+  "phoneCompany": "(23) 98983-9120",
+  "adressCompany": "Rua dos índios da amazonas",
+  "logoCompany": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Frestaurante3.png?alt=media&token=1d846f00-bc68-4a28-bfc9-96747b3682cc",
+  "createdAt": {
+    "$date": "2024-01-22T16:55:59.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9e676f84ce3991dc000b"
+  },
+  "name": "",
+  "email": "restaurante4@restaurante.com",
+  "password": "$2a$10$dqZT9FXOKmRQZhsSX14HIe/cWs1GUP7YPrZUqdoKBcIpqvZWEabmi",
+  "typeAccount": "colaborator",
+  "nameCompany": "Restaurante árabes de udi",
+  "phoneCompany": "(34) 99893-1212",
+  "adressCompany": "Rua terminal central e planalto",
+  "logoCompany": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Frestaurante4.jpg?alt=media&token=ef96419f-a032-41be-a2c2-168727cb68f7",
+  "createdAt": {
+    "$date": "2024-01-22T16:57:11.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9e8e6f84ce3991dc000f"
+  },
+  "name": "",
+  "email": "restaurante5@restaurante.com",
+  "password": "$2a$10$nFGACvqKsMRq6JyggczbjewtLrt1BtRgyCHc7b9JxQ9k45sqy5M/K",
+  "typeAccount": "colaborator",
+  "nameCompany": "Restaurante chique",
+  "phoneCompany": "(34) 99039-1202",
+  "adressCompany": "Rua dos ricos milionarios",
+  "logoCompany": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Frestaurante5.jpg?alt=media&token=e3e535af-c809-49da-be7c-17693df00709",
+  "createdAt": {
+    "$date": "2024-01-22T16:57:50.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9ebd6f84ce3991dc0013"
+  },
+  "name": "",
+  "email": "restaurante6@restaurante.com",
+  "password": "$2a$10$EiQwAcK8BCNjJrIWDd/OvOCaH52stchUfzchm4ZwO0l9y5rUQx/hy",
+  "typeAccount": "colaborator",
+  "nameCompany": "Restaurante da vovó",
+  "phoneCompany": "(34) 83921-0321",
+  "adressCompany": "Avenida Getúlio vargas",
+  "logoCompany": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Frestaurante6.png?alt=media&token=20a02d24-b2f2-4fb8-b819-826094cb093a",
+  "createdAt": {
+    "$date": "2024-01-22T16:58:37.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9ef06f84ce3991dc0017"
+  },
+  "name": "",
+  "email": "restaurante7@restaurante.com",
+  "password": "$2a$10$8qgiXMDL8ZjAQFRWbne8/uW4Z2mSR3PgyDBpLf1vIIs4t/Ol9Emcq",
+  "typeAccount": "colaborator",
+  "nameCompany": "Restaurante 7",
+  "phoneCompany": "(39) 21832-9138",
+  "adressCompany": "Avenida Ascendente",
+  "logoCompany": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Frestaurante7.png?alt=media&token=75469667-478b-40c4-ad78-df3e077cf2c3",
+  "createdAt": {
+    "$date": "2024-01-22T16:59:28.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9f0b6f84ce3991dc001b"
+  },
+  "name": "",
+  "email": "restaurante8@restaurante.com",
+  "password": "$2a$10$FaWnCHF/8LrzpMD14FKfF.KCXrfYGkSKlj4ehMKAskCEEz0r88Se6",
+  "typeAccount": "colaborator",
+  "nameCompany": "Restaurante do cheff",
+  "phoneCompany": "(93) 28193-2131",
+  "adressCompany": "Rua das avenidas e alamedas",
+  "logoCompany": "https://firebasestorage.googleapis.com/v0/b/graoa-direto.appspot.com/o/yt%2Frestaurante8.png?alt=media&token=0acda4a8-681e-455a-bde3-42fc07e1239b",
+  "createdAt": {
+    "$date": "2024-01-22T16:59:55.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9f1a6f84ce3991dc001f"
+  },
+  "name": "Fred",
+  "email": "fred@graodireto.com.br",
+  "password": "$2a$10$vjZbgE5w1rsWUqp5XDe7Nu5XaeB29RKI4qluf/uzAHFvMva2kRpiu",
+  "typeAccount": "client",
+  "nameCompany": "",
+  "phoneCompany": "",
+  "adressCompany": "",
+  "logoCompany": null,
+  "createdAt": {
+    "$date": "2024-01-22T17:00:10.272Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec5e2796be38e954f198d"
+  },
+  "name": "",
+  "email": "dasd@dsa.com",
+  "password": "$2a$10$Fk2tJp/zdLlI3Pwd6pwbseO6Ozv2aLCAtAEMZqJ1OAR5TOof6BlKu",
+  "typeAccount": "colaborator",
+  "nameCompany": "Pao de batata",
+  "phoneCompany": "(21) 33213-2132",
+  "adressCompany": "dsa",
+  "logoCompany": null,
+  "createdAt": {
+    "$date": "2024-01-22T19:45:38.277Z"
+  },
+  "__v": 0
+}]
